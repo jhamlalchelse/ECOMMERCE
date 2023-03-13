@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+  functions = "functions"
+  # Start the server after the build has completed
+  postbuild = "npm run netlify-postbuild"
