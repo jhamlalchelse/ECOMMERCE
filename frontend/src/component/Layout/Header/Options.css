@@ -1,0 +1,10 @@
+.dropdown-toggle::after {
+  display: none !important;
+}
+.dropdownitem {
+  text-decoration: none;
+  color: #333;
+}
+.dropitem:hover {
+  background-color: rgb(145, 211, 213) !important;
+}
