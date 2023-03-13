@@ -1,3 +1,0 @@
-  command = "npm run build"
-  publish = "public"
-  postbuild = "npm run netlify-postbuild"
